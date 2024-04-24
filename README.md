@@ -1,22 +1,8 @@
 # ConsoleApp1_Zadatak_20221124
 
-Zadatak za posao u Valamaru (12. mj. 2022 g.)
+Zadatak -Valamaru (12. mj. 2022 g.)
 
-
------Original Message-----
-
-From: Franko Radoš <Franko.Rados@valamar.com>
-
-To: Zdravko Mofardin <zdravkom@netscape.net>
-
-Sent: Tue, 6 Dec 2022 11:30
-
-Subject: RE: Zadatak
-
-Bok,
-Riješenja koja si dao imaju kompleksnost N na kvadrat, pa onda obrada raste exsponencijano uz porast velicina podataka
 U nastavku je riješenje za N LogN
-
 -------------------------
 Da bude malo plastičnije ti nacrtam jedan od mogućih smjerova razmišljanja
 Podatke stavimo u tablicu – dobijemo ovako nešto
@@ -42,6 +28,6 @@ I tako onda obrađujemo dalje
 
 LP,
 
-Franko Radoš,
+FR,
 
 Valamar Riviera d.d.

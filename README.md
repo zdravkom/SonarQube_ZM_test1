@@ -1,6 +1,6 @@
 # ConsoleApp1_Zadatak_20221124
 
-Zadatak -Valamaru (12. mj. 2022 g.)
+Zadatak - Valamar (12. mj. 2022 g.)
 
 U nastavku je riješenje za N LogN
 -------------------------

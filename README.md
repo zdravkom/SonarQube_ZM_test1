@@ -1,17 +1,6 @@
 # ConsoleApp1_Zadatak_20221124
 
-Zadatak za posao u Valamaru (12. mj. 2022 g.)
-
-
------Original Message-----
-
-From: Franko Radoš <Franko.Rados@valamar.com>
-
-To: Zdravko Mofardin <zdravkom@netscape.net>
-
-Sent: Tue, 6 Dec 2022 11:30
-
-Subject: RE: Zadatak
+Zadatak - Valamaru (12. mj. 2022 g.)
 
 Bok,
 Riješenja koja si dao imaju kompleksnost N na kvadrat, pa onda obrada raste exsponencijano uz porast velicina podataka
@@ -42,6 +31,6 @@ I tako onda obrađujemo dalje
 
 LP,
 
-Franko Radoš,
+FR,
 
 Valamar Riviera d.d.

@@ -10,7 +10,8 @@ namespace ConsoleApp1_Zadatak_20221124
     {
         public Obrada()
         { }
-
+        public Obrada()
+        { }
         /// <summary>
         /// Obrada s dupliciranim parovima (npr.: 4+6 i 6+4 su dva različita para)
         /// </summary>
